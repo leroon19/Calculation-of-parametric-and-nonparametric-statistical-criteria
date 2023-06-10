@@ -1,0 +1,1 @@
+# Calculation-of-parametric-and-nonparametric-statistical-criteria
